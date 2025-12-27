@@ -17,8 +17,8 @@
         "device_id": "04a7faedb91dc315",
         "username": "Snu",
         "password": "12345@Dom",
-        "expirydate": "26-12-2025",
-        "Allowoffline": true
+        "expirydate": "21-12-2025",
+        "Allowoffline": false
     },
     {
         "device_id": "",
