@@ -5,7 +5,7 @@
   "WhatsNew": "• New UI Added\n• Hidden Mock Location & Dev Options\n",
   "Button1": "Update",
   "Button1Url": "https://t.me/mockimoz",
-  "2Button": false,
+  "2Button": true,
   "ShowTimer": true,
   "TargetTime": "2026-1-14 23:00:00"
 }
