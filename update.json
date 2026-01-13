@@ -6,6 +6,6 @@
   "Button1": "Update",
   "Button1Url": "https://t.me/mockimoz",
   "2Button": false,
-  "ShowTimer": false,
-  "TargetTime": "2026-1-13 23:00:00"
+  "ShowTimer": true,
+  "TargetTime": "2026-1-14 23:00:00"
 }
